@@ -11,6 +11,7 @@ public class Application {
                   int j=10;
                    int m=20;//change to feateture to master
                    int f=30;
+                   int z=40;
 	}
 
 }
